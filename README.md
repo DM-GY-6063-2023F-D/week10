@@ -5,6 +5,9 @@
 - shuffle
 - wraparound with mod
 
-### arduino
+### [arduino](https://dm-gy-6063-2023f-d.github.io/week10/arduino/)
 
-- digitalWrite()
+#### digitalWrite()
+- blink
+- fade wraparound
+- fade in and out
